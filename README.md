@@ -1,6 +1,6 @@
-# 🧠 SMITH — Your AI Voice Assistant
+# 🧠 Chatmeet — Your AI Voice Assistant
 
-SMITH is a smart voice-controlled desktop assistant built using Python. Designed to function like Siri or Alexa, SMITH can understand your voice, respond like a human using Cohere's NLP model, and perform practical system-level tasks such as opening Chrome, VS Code, or directories — all hands-free.
+Chatmeet is a smart voice-controlled desktop assistant built using Python. Designed to function like Siri or Alexa, SMITH can understand your voice, respond like a human using Cohere's NLP model, and perform practical system-level tasks such as opening Chrome, VS Code, or directories — all hands-free.
 
 ## 🔧 Features
 
